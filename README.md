@@ -17,7 +17,7 @@ I also make music.
   <a href="https://www.linkedin.com/in/malena-guallar-849135272/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- <a href="https://www.instagram.com/malena00accent/">
+ <a href="https://www.instagram.com/malena100accent/">
     <img src="https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
   <a href="https://soundcloud.com/techno_pagan?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
