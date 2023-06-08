@@ -2,7 +2,7 @@
 
 <br>
 
-I'm Malena Guallar, developper apprentice at Ada Tech School since january 2023. 
+I'm Malena Guallar, developer apprentice at Ada Tech School since january 2023. 
 <br>
 <br>
 🍓 I used to be a cheffe in a restaurant, conceiving and designing courses as well as conceiving and designing apps is something I am passionate about. 
