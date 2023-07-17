@@ -2,16 +2,15 @@
 
 <br>
 
-I'm Malena Guallar, developer apprentice at Ada Tech School since january 2023. 
+I'm Malena, developer apprentice at Ada Tech School since january 2023. 
 <br>
 <br>
 🍓 I used to be a cheffe in a restaurant, conceiving and designing courses as well as conceiving and designing apps is something I am passionate about. 
 <br>
 <br>
-I'm looking for an internship starting from october 23 - let's get in touch 🦋 !
+I'm looking for a one year apprenticeship starting between october 23 and february 24 - let's get in touch 🦋 !
 <br>
-<br>
-I also make music. 
+ 
 <br>
 <br>
 
