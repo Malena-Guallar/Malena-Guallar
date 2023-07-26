@@ -13,7 +13,10 @@ I used to be a cheffe in a restaurant, conceiving and designing courses as well 
 I develop with Javascript and am currently learning Java. I like to use tools such as React, Next, Jest. Go check my repositories to know about all the tools I'm learning. 
 <br>
 <br>
-I'm looking for a one year apprenticeship starting between october 23 and february 24 - let's get in touch !
+I'm looking for a one year apprenticeship starting between october 23 and february 24 - let's get in touch ! <br>
+<br> 
+→ ✉ email me at malena.guallar@gmail.com
+<br>
 <br>
 
 ## ✸&nbsp; 𝑷𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐
