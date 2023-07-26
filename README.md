@@ -18,10 +18,10 @@ I'm looking for a one year apprenticeship starting between october 23 and februa
 
 ## ✸&nbsp; 𝑷𝒐𝒓𝒕𝒇𝒐𝒍𝒊𝒐
 <br>
-Go check my portfolio <a href="https://malena-guallar.github.io/_Portfolio/">here</a> or see some preview below ↴
-
+Go check my portfolio <a href="https://malena-guallar.github.io/_Portfolio/" target="_blank" rel="noopener noreferrer">here</a> or see some preview below ↴
 <br>
-![Capture d’écran 2023-07-26 à 13 58 00](https://github.com/Malena-Guallar/Malena-Guallar/assets/123973678/351963e6-ee11-4c76-bf4f-f6d8550ba38c)
+<br>
+![Capture d’écran 2023-07-26 à 14 03 44](https://github.com/Malena-Guallar/Malena-Guallar/assets/123973678/2526d68f-5fc5-44f1-8e20-77e2ce0ea566)
 
 
 
