@@ -32,16 +32,18 @@ Go check my portfolio <a target="_blank" rel="noopener noreferrer" href="https:/
 <br>
 
 ## ✸&nbsp; 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔
-<br>
-### Etam
-![Capture d’écran 2023-10-18 à 12 24 19](https://github.com/Malena-Guallar/Malena-Guallar/assets/123973678/3983ddd8-c27c-48c9-9f78-ba7b491a86fa)
-<br>
-![Capture d’écran 2023-10-18 à 12 24 38](https://github.com/Malena-Guallar/Malena-Guallar/assets/123973678/537cafde-2284-48a3-b33c-5897372fa6b7)
-<br>
-![Capture d’écran 2023-10-18 à 12 25 30](https://github.com/Malena-Guallar/Malena-Guallar/assets/123973678/4feb50f1-23a1-4aca-b169-ad949869a322)
-<br>
-![Capture d’écran 2023-10-18 à 12 25 11](https://github.com/Malena-Guallar/Malena-Guallar/assets/123973678/2a15a4b4-5c2f-4745-9a94-dd5cdafbf42b)
 
+#### ➢&nbsp; Etam - <i>Website mock-up, desktop & mobile</i> 
+<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Malena-Guallar/ETAM_Test_technique">Repository here</a> <br>
 <br>
 <br>
+
+
+![Capture d’écran 2023-10-18 à 12 24 19](https://github.com/Malena-Guallar/Malena-Guallar/assets/123973678/e456265d-4fc5-4ec0-bc2d-7a7adfdaab0c)
+![Capture d’écran 2023-10-18 à 12 25 30](https://github.com/Malena-Guallar/Malena-Guallar/assets/123973678/f8950244-1848-485e-9839-34558c479936)
+![Capture d’écran 2023-10-18 à 12 25 11](https://github.com/Malena-Guallar/Malena-Guallar/assets/123973678/405ea075-6da1-453c-acf0-cc4b405d0970)
+<br>
+
+#### ➢&nbsp; Others 
 Go check the repositories I pinned right under this section ↴
