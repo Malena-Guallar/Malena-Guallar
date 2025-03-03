@@ -4,7 +4,7 @@
 
 <br>
 
-I'm Malena, developer apprentice at Ada Tech School since january 2023. 
+I'm Malena, developer apprentice since january 2023. 
 <br>
 <br>
 I used to be a cheffe in a restaurant, conceiving and designing courses as well as conceiving and designing apps is something I am passionate about. 
@@ -13,7 +13,7 @@ I used to be a cheffe in a restaurant, conceiving and designing courses as well 
 I develop with Javascript and Python. I like to use tools such as React, Vue.js, Flask, Jest. Go check my repositories to know about all the tools I'm learning. 
 <br>
 <br>
-I'm looking for a one year apprenticeship starting now - let's get in touch ! <br>
+let's get in touch ! <br>
 <br> 
 → ✉ email me at malena.guallar@gmail.com
 <br>
